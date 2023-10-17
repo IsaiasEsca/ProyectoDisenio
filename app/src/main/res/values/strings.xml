@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProyectoDisenio</string>
+    <string name="nombre">Isaias Escamilla</string>
+    <string name="tittle">DISASTER ALERT</string>
+    <string name="sub_tittle"> Mantente alerta de tus alredadores</string>
+    <string name="log_Inicio">Inicio</string>
+    <string name="instrucciones">¿No tienes cuenta? Regístrate</string>
+    <string name="google">Iniciar sesión con Google</string>
+    <string name="facebook">Iniciar sesión con Facebook</string>
+   </resources>
